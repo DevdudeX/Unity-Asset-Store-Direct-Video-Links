@@ -103,6 +103,7 @@
             link.style.color = '#000';
             link.style.textDecoration = 'underline';
             link.style.cursor = 'pointer';
+            link.style.fontFamily = 'inherit';
 
             container.appendChild(link);
 
